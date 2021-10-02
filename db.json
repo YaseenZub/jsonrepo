@@ -1,5 +1,5 @@
 {
-  "title": "HELLO",
+  "title": "<script>alert(1)</script>",
   "columns": [
     "column1name",
     "column2name"
