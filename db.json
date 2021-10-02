@@ -6,7 +6,7 @@
   ],
   "rows":[
     [
-      "column 1 row 1 value",
+      "<script>alert(3)</script>",
       "column 2 row 1 value"
     ],
     [
