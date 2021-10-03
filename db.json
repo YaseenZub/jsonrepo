@@ -1,12 +1,12 @@
 {
-  "title": "<script>alert(1)</script>",
+  "title": "TITLE",
   "columns": [
     "columnasaname",
     "column2name"
   ],
   "rows":[
     [
-      "<script>alert(3)</script>",
+      "column 1 row 1 value",
       "column 2 row 1 value"
     ],
     [
